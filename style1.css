@@ -18,17 +18,16 @@ body{
     background-size: cover;
     background-position: center;
 }
-.container{
-    padding: 10px 1%;
-}
 nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
+    background-color:#3b2d2d;
 }
 .logo{
     width: 600px;
+    padding-bottom: 13px;
 }
 nav ul li{
     display: inline-block;
@@ -64,6 +63,9 @@ nav ul li a:hover::after{
 }
 .header-text h1 span{
     color:brown;
+}
+.container{
+    padding: 10px 3%;
 }
 /* --------------about------------- */
 #about{

@@ -23,10 +23,10 @@ nav{
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-    background-color:#3b2d2d;
+    background-color: rgb(90, 1, 77);
 }
 .logo{
-    width: 600px;
+    width: 450px;
     padding-bottom: 13px;
 }
 nav ul li{
